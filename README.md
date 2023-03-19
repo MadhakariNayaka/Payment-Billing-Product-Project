@@ -1,9 +1,9 @@
-#About
+# About
 
 This Project is used to control and maintain the accountant salary and students personal and payment details.
 Technology used to make this project: - JavaScript, Java, HTML, CSS, Servlets, JDBC, MySQL.
 
-#User have to create tables given below:-
+## Users have to create tables given below:-
 
 CREATE TABLE  "FEE_STUDENT" 
    ("ROLLNO" VARCHAR2(4000), 
